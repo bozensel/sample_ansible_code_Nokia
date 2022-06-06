@@ -1,4 +1,4 @@
-# sample_ansible_code_Nokia
+# Sample_ansible_code_Nokia
 A sample ansible code for Nokia SR devices
 
 Ansible is a tool that generates written instructions for automating IT professionals' work throughout the entire system infrastructure.
